@@ -1,0 +1,39 @@
+.card {
+  margin: 0 200px; 
+ }
+
+ /* .form-group {
+   display: flex;
+   align-items: baseline;
+ } */
+
+ .form-group__label {
+   text-align: end;
+ }
+
+ /* .payment-form .form-group__input{
+   width: 10rem;
+ } */
+
+ .payment-form .card-body {
+   padding: 2rem 10rem;
+ }
+
+ .payment-form .card{
+   margin-top: 4rem;
+   border: 2px solid grey;
+   border-radius: 1rem;
+   box-shadow: 10px 5px 5px rgb(70, 67, 68);
+ }
+
+ .payment-form button {
+   margin: 0 2rem;
+ }
+
+ .payment-form .row {
+  align-items: baseline;
+ }
+
+ .payment-form .invalid-feedback {
+  text-align: start;
+ }
